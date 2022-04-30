@@ -27,7 +27,6 @@
 }
 
 .headerSearch {
-    max-width: 600px;
     flex: 1;
 }
 
@@ -79,7 +78,6 @@
 .results {
     list-style-type: none;
     width: 100%;
-    max-width: 600px;
     margin-right: auto;
 }
 .results li {
@@ -138,7 +136,6 @@
 
 .navigation {
     width: 100%;
-    max-width: 600px;
     display: flex;
     align-items: center;
     margin: 1.25rem auto 2rem 0;
